@@ -1,0 +1,27 @@
+body {
+	background-color: black;
+	color: white;
+}
+header {
+	background-color: #F0141E;
+}
+
+#map {
+	height: 200px;
+	width: 300px;
+	border:2px solid orange;
+}
+.randomCharacter {
+	border: 1px solid orange;
+}
+.randomComic {
+	border: 1px solid teal;
+}
+ul {
+	margin;auto;
+	display: block;
+}
+li {
+	display: inline-block;
+	margin-left:20px;
+}
